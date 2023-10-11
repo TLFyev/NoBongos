@@ -16,9 +16,9 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/TLFyev/NoBongos/blob/main/latest.zip",
-    "DownloadLinkTesting": "https://github.com/TLFyev/NoBongos/blob/main/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/TLFyev/NoBongos/blob/main/latest.zip",
+    "DownloadLinkInstall": "https://github.com/TLFyev/NoBongos/raw/main/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TLFyev/NoBongos/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/TLFyev/NoBongos/raw/main/latest.zip",
     "Punchline": "Small plugin to toggle sound effects/noises.",
     "AcceptsFeedback": true
 }
