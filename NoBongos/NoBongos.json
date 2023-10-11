@@ -1,0 +1,14 @@
+{
+    "Author": "TL5",
+    "Name": "NoBongos Plugin",
+    "Punchline": "Small plugin to toggle sound effects/noises.",
+    "Description": "Small plugin to toggle sound effects/noises.",
+    "InternalName": "NoBongosPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "plugin",
+        "quiet",
+        "sound",
+        "spam"
+    ]
+}
