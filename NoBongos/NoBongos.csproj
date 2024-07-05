@@ -3,8 +3,6 @@
   <Import Project="Dalamud.Plugin.Bootstrap.targets"/>
 
   <PropertyGroup>
-    <Authors></Authors>
-    <Company></Company>
     <Version>0.0.0.5</Version>
     <Description>NoBongos</Description>
     <Copyright></Copyright>

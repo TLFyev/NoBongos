@@ -42,7 +42,7 @@ namespace NoBongos
             this.PlaySoundEffectHook!.Original(soundId, u1, u2);
         }
 
-        public Plugin(DalamudPluginInterface pluginInterface)
+        public Plugin(IDalamudPluginInterface pluginInterface)
         {
             pluginInterface.Create<Services>();
 
