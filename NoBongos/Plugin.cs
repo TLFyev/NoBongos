@@ -23,7 +23,7 @@ namespace NoBongos
 
         private delegate void SoundDelegate(uint soundId, long u1, long u2);
 
-        [Signature("E8 ?? ?? ?? ?? 4D 39 BE", DetourName = nameof(SoundDetour))]
+        [Signature("E8 ?? ?? ?? ?? 48 63 45 80", DetourName = nameof(SoundDetour))]
         private Hook<SoundDelegate>? PlaySoundEffectHook { get; init; }
 
         private void SoundDetour(uint soundId, long u1, long u2)
