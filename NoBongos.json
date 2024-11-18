@@ -1,0 +1,21 @@
+{
+  "Author": "TL5",
+  "Name": "NoBongos Plugin",
+  "InternalName": "NoBongos",
+  "AssemblyVersion": "0.0.0.6",
+  "Description": "Small plugin to toggle sound effects/noises.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin",
+    "quiet",
+    "sound",
+    "spam"
+  ],
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Small plugin to toggle sound effects/noises.",
+  "AcceptsFeedback": true
+}
